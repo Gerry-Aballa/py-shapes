@@ -1,1 +1,1 @@
-# Draw different shapes in terminal using python
+# Draw shapes using python turtle
