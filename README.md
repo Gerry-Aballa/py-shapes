@@ -1,1 +1,1 @@
-# Draw a heart in terminal using python
+# Draw different shapes in terminal using python
